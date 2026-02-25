@@ -1,8 +1,6 @@
 # Blackhole
 
-A real-time black hole renderer built with C++ and OpenGL. Simulates gravitational lensing, the photon sphere, and a lensed procedural starfield — all computed in a GLSL fragment shader.
-
-![screenshot placeholder — replace with a gif or screenshot of the renderer]
+A real-time black hole renderer built with C++ and OpenGL. Simulates gravitational lensing, the photon sphere, and a lensed procedural starfield computed in a GLSL fragment shader.
 
 ## Features
 
